@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Princess and welcome to my world. 
 
-😄 Pronouns: She/ her 
+😄 Pronouns: She/ Her/ They
 
 🌱 I’m currently learning EVERYTHING! Seriously, I'm new into the world, and trying to grow my knowledge base. Currently focused on HTML, CSS, JS, APIs and general web development
 
